@@ -27,7 +27,6 @@ C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Prot
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -64,3 +63,4 @@ C:\Users\HP\Desktop\C#\JWT\JwtAuth\obj\Debug\net5.0\JwtAuth.dll
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\obj\Debug\net5.0\ref\JwtAuth.dll
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\obj\Debug\net5.0\JwtAuth.pdb
 C:\Users\HP\Desktop\C#\JWT\JwtAuth\obj\Debug\net5.0\JwtAuth.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\JWT\JwtAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

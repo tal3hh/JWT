@@ -1,0 +1,1 @@
+﻿https://www.faciletechnolab.com/blog/2021/4/5/how-to-implement-jwt-token-authentication-in-aspnet-core-50-web-api-using-jwt
